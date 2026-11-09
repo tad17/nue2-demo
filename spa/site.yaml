@@ -1,0 +1,7 @@
+
+meta:
+  title: Minimal SPA
+
+server:
+  dir: server
+  reload: true
